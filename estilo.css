@@ -212,6 +212,7 @@ input[type="submit"] {
 }
 .sec-solv{
   max-width: 100%;
+  font-family: 'Poppins', sans-serif;  
 }
 .solve{
   display: flex;
