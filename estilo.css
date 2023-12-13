@@ -708,3 +708,20 @@ footer{
 .op{
   display: flex;
 }
+#contenedoryoutube {
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%; /*nos da la proporcion de 16X9*/
+  position: relative;
+}
+#contenedoryoutube iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.video {
+  max-width: 875px;
+  margin: 0 auto;
+}
