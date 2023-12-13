@@ -196,4 +196,8 @@
   .op{
   gap: 10px;
   }
+    .col1{
+    width: 100%;
+    text-align: center;
+  }
 }
